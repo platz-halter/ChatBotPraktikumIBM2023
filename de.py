@@ -1,0 +1,9 @@
+search = 'Suchen'
+do_nothing = 'Nichts'
+welcome_message = "Hallo!"
+service_message = "Hallo was kann ich für dich tun?"
+search_message = "Wonach möchtest du suchen?"
+option = "Mögliche optionen"
+all = "Alle Einträge"
+last5 = "5 Einträge"
+active = "Aktive"

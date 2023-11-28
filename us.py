@@ -1,0 +1,9 @@
+search = 'Search'
+do_nothing = 'Exit'
+service_message = "What can i do for you?"
+welcome_message = "Hello!"
+search_message = "What do you want to search for?"
+option = "Please select an option"
+all = "All"
+last5 = "Last 5"
+active = "Active"
